@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "Tsering Tschango"
+name = "Tsering"
 image = "/img/default-author.jpg"
 url = "/about/"
 +++
