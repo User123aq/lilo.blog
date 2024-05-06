@@ -1,5 +1,5 @@
 +++
-title = "Reportage Deutsch"
+title = "Deutsch Reportage"
 date = "2024-05-06"
 draft = false
 pinned = false
