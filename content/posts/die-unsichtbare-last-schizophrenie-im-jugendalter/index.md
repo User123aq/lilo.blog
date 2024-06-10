@@ -1,0 +1,9 @@
++++
+title = "Die unsichtbare Last: Schizophrenie im Jugendalter"
+date = "2024-06-11"
+draft = false
+pinned = false
+tags = ["Deutsch", "Reportage"]
+description = "In einer Welt, die von scheinbarer Normalität geprägt ist, kämpfen viele junge Menschen hinter den Kulissen mit dieser komplexen psychischen Störung. Doch was bedeutet es wirklich, mit Schizophrenie im Jugendalter zu leben? Und wie können wir als Gesellschaft dazu beitragen, diese Last zu lindern und jungen Betroffenen ein unterstützendes Umfeld zu bieten?\n«Du bist eine von acht Personen, die auserwählt sind. Ihr alle habt besondere Fähigkeiten, weshalb wir in der Arktis einige Tests mit euch durchführen werden»."
++++
+Luca Fischer schüttelt den Kopf. Schon wieder diese Stimmen. Er hasste es, wenn ihm immer «abnormale» und unangenehme Stimmen von einem normalen Alltag abhielten. Was glauben wohl die Leute in seinem Umfeld nur, wenn er etwas vor sich hinmurmeln muss? Mit einem leisen, unbestimmten Flüstern, das sich langsam in das Leben eines Jugendlichen schleicht, beginnt es. Anfangs kaum mehr als ein Schatten im peripheren Blickfeld, wuchsen Lucas Symptome mit der Zeit zu unüberhörbaren Stimmen heran. Luca Fischer lebt seit seiner Kindheit mit visuellen Halluzinationen. Im frühen Jugendalter zwischen 12 und 13 Jahren schlossen sich akustische Einbildungen als weiteres Symptom an. Das Science-Fiction Buch “Maze Runner“ war der endgültige Auslöser dafür. Luca Fischer, der seit seiner Kindheit mit diesem Spektrum von Symptomen lebt, führt uns durch die Herausforderungen, denen er sich tagtäglich seit dem Jugendalter stellen muss.
