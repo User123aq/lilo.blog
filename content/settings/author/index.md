@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "Tsering"
-image = "/img/default-author.jpg"
+name = "Tsering Tschango"
+image = "/media/michael-klein-ann-long-fine-art.jpeg"
 url = "/about/"
 +++
