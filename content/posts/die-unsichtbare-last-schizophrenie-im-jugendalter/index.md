@@ -4,19 +4,18 @@ date = "2024-06-11"
 draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
-description = "In einer Welt, die von scheinbarer Normalität geprägt ist, kämpfen viele junge Menschen hinter den Kulissen mit dieser komplexen psychischen Störung. Doch was bedeutet es wirklich, mit Schizophrenie im Jugendalter zu leben? Und wie können wir als Gesellschaft dazu beitragen, diese Last zu lindern und jungen Betroffenen ein unterstützendes Umfeld zu bieten?\n«Du bist eine von acht Personen, die auserwählt sind. Ihr alle habt besondere Fähigkeiten, weshalb wir in der Arktis einige Tests mit euch durchführen werden»."
+description = "{{</In einer Welt, die von scheinbarer Normalität geprägt ist, kämpfen viele junge Menschen hinter den Kulissen mit dieser komplexen psychischen Störung. Doch was bedeutet es wirklich, mit Schizophrenie im Jugendalter zu leben? Und wie können wir als Gesellschaft dazu beitragen, diese Last zu lindern und jungen Betroffenen ein unterstützendes Umfeld zu bieten?\n«Du bist eine von acht Personen, die auserwählt sind. Ihr alle habt besondere Fähigkeiten, weshalb wir in der Arktis einige Tests mit euch durchführen werden».>}}"
 footnotes = "*Um die Privatsphäre des Interviewpartners Luca Fischer zu schützen, wird sein Name in dieser Reportage anonymisiert bleiben.*\n\n***Quellen:***\\\nEnableMe: Schizophrenie: [Dinge sehen, die nicht da sind ](https://www.enableme.ch/de/behinderungen/schizophrenie-6450)(abgerufen am 6.5.2024)\n\nDie Techniker: [Was ist Schizophrenie?](https://www.tk.de/techniker/gesundheit-und-medizin/behandlungen-und-medizin/psychische-gesundheit/weitere-psychische-erkrankungen/was-ist-schizophrenie-2017900?tkcm=aaus) (zuletzt abgerufen am 6.5.2024)\n\nReasearchGate: [Milieutherapie und Ansätze aus der Soteria – Wie gestalte ich das Umfeld therapeutisch?](https://www.researchgate.net/publication/332297450*Milieutherapie_und_Ansatze_aus_der_Soteria*-_Wie_gestalte_ich_das_Umfeld_therapeutisch) (zuletzt abgerufen am 6.5.2024)\n\nTheodor Wenzel Werk E.V.: [Schizophrenie: Anzeichen, Ausprägungen, Therapie](https://tww-berlin.de/kliniken/krankheitsbilder/schizophrenie/) (zuletzt abgerufen am 7.5.2024)\n\nStudysmarter: [Schizophrenie Symptome](https://www.studysmarter.de/schule/biologie/verhaltensbiologie/schizophrenie-symptome/) (zuletzt abgerufen am 6.5.2024)\n\nUPD Universitäre Psychiatrische Dienste Bern: [Zentrum für Schizophrenie und Psychose](https://www.upd.ch/de/angebot/erwachsenenpsychiatrie/zentrum-schizophrenie-und-psychose.php) (zuletzt abgerufen am 5.5.2024)\n\nYoutube: [24. Schizophrenie](https://youtu.be/nEnklxGAmak?si=En-CByyPsgd0QfOt) (zuletzt abgerufen am 12.3.2024)\n\nStudysmarter.de:[ Schizophrenie Symptome, 2024](https://www.studysmarter.de/schule/biologie/verhaltensbiologie/schizophrenie-symptome/) (abgerufen am 6.5.2024)\n\nigsbern: [Stationäres Angebot](https://www.igsbern.ch/de/soteria/stationaeres-angebot-3.html) (abgerufen am 6.5.2024)\n\nonmeda: [Schizophrenie: 13 Symptome, die auf eine schizophrene Psychose hinweisen](https://www.onmeda.de/krankheiten/schizophrenie/galerie-schizophrenie-symptome-id212814/) (abgerufen am 5.6.2024)"
 +++
-In einer Welt, die von scheinbarer Normalität geprägt ist, kämpfen viele junge Menschen hinter den Kulissen mit dieser komplexen psychischen Störung. Doch was bedeutet es wirklich, mit Schizophrenie im Jugendalter zu leben? Und wie können wir als Gesellschaft dazu beitragen, diese Last zu lindern und jungen Betroffenen ein unterstützendes Umfeld zu bieten?
+{{</In einer Welt, die von scheinbarer Normalität geprägt ist, kämpfen viele junge Menschen hinter den Kulissen mit dieser komplexen psychischen Störung. Doch was bedeutet es wirklich, mit Schizophrenie im Jugendalter zu leben? Und wie können wir als Gesellschaft dazu beitragen, diese Last zu lindern und jungen Betroffenen ein unterstützendes Umfeld zu bieten?<!--StartFragment-->
+
+\>}}
 
 Tsering Tschango, Narin Kamil Saih
-
 
 *«Du bist eine von acht Personen, die auserwählt sind. Ihr alle habt besondere Fähigkeiten, weshalb wir in der Arktis einige Tests mit euch durchführen werden».*
 
 Luca Fischer schüttelt den Kopf. Schon wieder diese Stimmen. Er hasste es, wenn ihm immer «abnormale» und unangenehme Stimmen von einem normalen Alltag abhielten. Was glauben wohl die Leute in seinem Umfeld nur, wenn er etwas vor sich hinmurmeln muss? Mit einem leisen, unbestimmten Flüstern, das sich langsam in das Leben eines Jugendlichen schleicht, beginnt es. Anfangs kaum mehr als ein Schatten im peripheren Blickfeld, wuchsen Lucas Symptome mit der Zeit zu unüberhörbaren Stimmen heran. Luca Fischer lebt seit seiner Kindheit mit visuellen Halluzinationen. Im frühen Jugendalter zwischen 12 und 13 Jahren schlossen sich akustische Einbildungen als weiteres Symptom an. Das Science-Fiction Buch “Maze Runner“ war der endgültige Auslöser dafür. Luca Fischer, der seit seiner Kindheit mit diesem Spektrum von Symptomen lebt, führt uns durch die Herausforderungen, denen er sich tagtäglich seit dem Jugendalter stellen muss.
-
-
 
 #### Entwirrung der Schizophrenie
 
@@ -50,8 +49,6 @@ Die DIS ist eine psychische Störung, bei der zwei oder mehrere Identitäten die
 \>}}
 
 <!--EndFragment-->
-
-
 
 ### Das persönliche Akutspital der Soteria
 
