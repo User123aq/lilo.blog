@@ -19,17 +19,15 @@ Luca Fischer  schüttelt den Kopf. Schon wieder diese Stimmen. Er hasste es, wen
 
 ### **Entwirrung der Schizophrenie**
 
-
 Die Schizophrenie ist eine psychische Krankheit, welche die Denkfähigkeit und die Wahrnehmung der Welt des Erkrankten stört. 
 
 Die Schizophrenie mit ihrem Spektrum an Symptomen passt in keine Schublade. Sie wird zwar in drei Subtypen geordnet, welche aber oft im Laufe der Krankheit miteinander verschmelzen. Diese Subtypen sind die paranoide 	Schizophrenie, die katatonische Schizophrenie und die hebephrene Schizophrenie. 
 Wo die katatone Schizophrenie einen stundenlangen Starrezustand und Mutismus verursacht, lässt die hebephrene Schizophrenie die Äusserungen des Betroffenen nicht mehr nachvollziehbar wirken. Sie ist eine Ausprägung der paranoiden Schizophrenie, welche die klassische Symptomatik aufweist. 	Betroffene wirken distanzlos und in ihrer eigenen Welt versunken, passend in das typische Krankheitsbild der Schizophrenie. 
 Daniel Eichert, ein Quereinsteiger in der Soteria Bern, ein kleines psychiatrisches Akutspital, definierte: „Wenn Episoden oder psychotische Krisen wiederholt erlebt werden, kann man von der Schizophrenie sprechen.“
 
-![Abbildung 1: Daniel Eichert, Stv. Leiter der Soteria](picture1.png)
+![Abbildung 1: Daniel Eichert, Stv. Leiter der Soteria](https://narin-kamil-saih.netlify.app/die-unsichtbare-last-schizophrenie-im-jugendalter/daniel.png)
 
 ### **Die Symptomatik im Blick**
-
 
 “Grundsätzlich lässt sich sagen, dass das Krankheitsbild der Schizophrenie ein Verschwimmen der Grenzen ist, ob die eigenen oder die der anderen.“ Dies erläuterte uns Herr Eichert. Er arbeitet täglich mit Betroffenen und ermöglicht ihnen mithilfe der Konfrontationstherapie und der Milieutherapie, welche auf einen Wechsel im Umfeld der Betroffenen ruht,  einen neuen Einstieg in die Realität und ihr Leben. In einem Interview hat er uns viele ungenannte Symptome aufgezeigt. 
 
@@ -45,19 +43,16 @@ Ein merklicher Unterschied liegt darin, dass sich durch eine Schizophrenie nicht
 
 ### **Das persönliche Akutspital der Soteria**
 
-
 Ein verwilderter Garten mit einem Teich vor dem kleinen Wohnhaus mit der altmodischen Haustür. Auf den Gedanken, dass dies ein psychiatrisches Akutspital ist, wären Beiläufer wahrscheinlich nicht gekommen. Doch tatsächlich richtet sich die Behandlung in erster Linie an junge Menschen, die sich in einer akuten schizophrener oder adoleszenten Krise befinden. Die Soteria ist nicht allzu bekannt in Bern weshalb der stellvertretende Leiter und Schizophrenie-Experte Daniel Eichert leicht überrascht war von einer Gesprächsanfrage über die Therapie an der Soteria. “Ich bin kein Arzt, unsere Ärzte stellen Diagnosen“ versichert Daniel Eichert. Die ausgewiesenen Ärzte diagnostizieren die Patienten während der Behandlung. Danach wird die medikamentöse Therapie verabreicht unter Absprache mit Ärzten und Betreuer. Eine Milieutherapie wird ebenfalls angeboten, die die psychiatrische Behandlung schwerer Erkrankungen individuell an die Symptomatik und Situation angepasst. Sogenannte Milieufaktoren würden gezielt beeinflusst durch Strukturierung des Tagesablaufes, Interaktion zwischen Patienten, Behandlern und Angehörigen um den gemeinsamen therapeutischen Prozess zu ermöglichen und fördern. Alle Patienten erhälten eine persönliche Behandlung je nachdem, in welchem akuten Zustande sie seien. Bei jemandem in akuteren Zustand achte man darauf, denjenigen nicht einer stärkeren 	Alltagsbewältigung auszusetzen und dass die medikamentöse Dosierung etwas höher sei, berichtet Daniel Eichert. Zur Abschwächung der akuten Phase stellt man den Bewohnern kleine alltägliche Herausforderungen, wie das Kochen, gemeinsame Gruppenprogramme oder an der Tagesplanung teilnehmen. Durch behutsame Milieutherapie, einer entspannten Atmosphäre und progressive Zusammenarbeit erhofft man sich in der Soteria Fortschritte für jeden Patienten, sodass sie schlussendlich sicher auf eigenen Füssen stehen. 
 
 ![](picture2.jpg "Abbildung 3: Esszimmer in der Soteria")
 
 ### **Ursachen der Schizophrenie**
 
-
 Das Gebiet der Schizophrenie ist noch lange nicht gänzlich erforscht und einiges ist noch unbekannt. Viele Psychologen oder Ärzte beziehen sich auf ein psychosoziales Modell, darunter auch 	Daniel Eichert. 
 Das Modell sagt aus, dass im Zusammenhang mit mehreren Faktoren, die unter gemeinsamen Zusammenspiel eine erhöhte Möglichkeit einer schizophrenen Reaktion auslösen können. Laut Daniel Eichert können Symptome auf eine genetische Vererbung als biologische Faktoren, Stress und traumatische negative Erlebnisse die als Psychosoziale Faktoren bezeichnet werden oder Drogenkonsum, vor allem Cannabiskonsum,  zurückführen. Jedoch ist die Ursache der Entstehung einer Schizophrenie nicht immer bekannt. Wenn ein Elternteil schon eine psychische Erkrankung hat, ist eine mögliche Erkrankung des Kindes grösser als bei einem nichtbetroffenen Familienstamm. Bei etwa zwölf von hundert Kindern deren Eltern an Schizophrenie betroffen sind, treten im späteren Alter tatsächlich Schizophrenie auf.
 
 ### **Psychosoziale Faktoren**
-
 
 Die persönliche Lebensgeschichte und Erfahrungen sind alles potenzielle Ereignisse von Bedeutung, die zu einem Trauma führen können und damit eine prägende Rolle für die Entstehung einer Schizophrenie spielen. Daniel Eichert weist auf eine erhöhte «Verletzlichkeit» durch die kombinierten Faktoren aus. Er definiert den Begriff dadurch wie bestimmte traumatische Erlebnisse in der Vergangenheit eines Menschen als Faktoren zu einer grösseren «Verletzlichkeit» der Bildung von schizophrenen Symptomen führen können. Beobachtbar ist die erhöhte Verletzlichkeit in der Kindheit oder Jugendalter mit auffälligem Verhalten. Fachpersonen der Soteria schätzen die Verletzlichkeit und zusätzliche Stressfaktoren für das Auftreten psychotischer Krisen in etwa 1% der schizophrener Bevölkerung.
 
@@ -65,12 +60,10 @@ Die persönliche Lebensgeschichte und Erfahrungen sind alles potenzielle Ereigni
 
 ### **Die Schizophrenie unter der Lupe – Ein Interview mit Luca Fischer**
 
-
 Für einen Einblick in das Leben einer jugendlichen Schizophrenie-betroffenen Person, führten wir ein Interview mit dem Teenager Luca Fischer, der uns genaueres erzählte, über seinen persönlichen Krankheitsverlauf. 
 Lebendige Clownsgestalten, Erscheinungen von Menschen kleiner Grösse und Tiere 	in der Alltagsumgebung: 	Halluzinationen kennzeichnen und begleiten Schizophrene Menschen regelmässig in ihrem Leben. " Das Buch "Maze Runner", das ich damals gelesen habe, beeinflusste und verstärkte meine Symptome stark. “ erzählt der Teenager.  Die Stimmen die 	Luca 	hörte, unterschieden sich in 	ihrer Bedrohlichkeit. Tatsächlich konnten sie beunruhigender werden und den Träger zu eigenwilligen Handlungen anstiften. Obwohl Luca’s Symptome sich in seinen früheren Jahren äusserten, wurden sie bei therapeutischen Besuchen vernachlässigt und nicht ernstgenommen. Man sah die Symptome als die des Autismus  gleich, eine Krankheit mit dem der Teenager im Voraus schon diagnostiziert wurde. Danach diagnostizierte man ihn mit der Borderlinestörung (BPD) statt Schizophrenie aufgrund ihrer ähnlichen Symptome. Im Verlauf der Zeit verstärkten sich die Symptome und somit auch das Bewusstsein der Existenz der Schizophrenie. "Jetzt besuche ich eine neue Therapeutin, die mir bezüglich der Stimmen unterstützt ", erwähnt Luca Fischer und bestätigt: " In den nächsten Wochen werde ich ebenfalls Medikamente bekommen die Nebenwirkungen haben können. "
 
 ### **Herausforderungen**
-
 
 Die Therapie ist wohl-benötigt und den Jugendlichen im nicht-stressfreien Alltag behilflich gegen den täglichen Belastungen. Unvermittelte psychotische Episoden erschweren Situationen, die Mitmenschen problemlos 	durchstehen, aber komplizierter für schizophrene Menschen verlaufen. 
 Vor allem Schüler wie Luca Fischer, die längere Zeitspannen im Klassenzimmer verbringen, machen damit Erfahrung. Für ihn ist es eine 	Herausforderung, Normalität vorzutäuschen, wenn gleichzeitig eine starke Präsenz der Stimmen 	vorherrscht. Eine Wortfindungsstörung ist Teilsymptom akustischer Einbildungen bei Luca Fischers Episoden. Er würde Aussagen fehlerhaft verstehen, als sie ursprünglich gemeint seien. Diese Ausgangslagen seien verunsichernd und unangenehm, berichtet der Jugendliche. 
@@ -78,7 +71,6 @@ Soziale Interaktionen mit Mitmenschen und in Gruppen bedeuten eine grössere Auf
 Luca Fischer weiss von seiner Erfahrung, dass er Medien und Filme mit übernatürlichen Elementen oder komplexen Themen vermeiden soll.
 
 ### **Das Prisma des Mitgefühls**
-
 
 Die öffentliche Wahrnehmung der Schizophrenie ist oft von falschen Vorstellungen geprägt, die durch Medien und den alltäglichen Gebrauch stigmatisierender Begriffe verstärkt werden. Oft wird das Bild von Schizophrenie-Betroffenen als äußerst bedrohlich und als eine Gefahr für sich und die Umwelt inszeniert. Diese Vorurteile führen zu Diskriminierung und einer abweisenden Haltung gegenüber Betroffenen. 
 “Ja, das Bild von Schizophrenie ist in der Öffentlichkeit sehr stark und falsch geprägt - durch Medien wie Filme, aber auch Bücher. Beleidigungen wie «Schizo» werden im Alltag oft scherzhaft verwendet, wie ihr sie wahrscheinlich auch schon gehört habt”, meint auch Luca Fischer.
