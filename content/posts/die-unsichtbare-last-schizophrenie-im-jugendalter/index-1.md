@@ -47,7 +47,7 @@ Ein merklicher Unterschied liegt darin, dass sich durch eine Schizophrenie nicht
 
 Ein verwilderter Garten mit einem Teich vor dem kleinen Wohnhaus mit der altmodischen Haustür. Auf den Gedanken, dass dies ein psychiatrisches Akutspital ist, wären Beiläufer wahrscheinlich nicht gekommen. Doch tatsächlich richtet sich die Behandlung in erster Linie an junge Menschen, die sich in einer akuten schizophrener oder adoleszenten Krise befinden. Die Soteria ist nicht allzu bekannt in Bern weshalb der stellvertretende Leiter und Schizophrenie-Experte Daniel Eichert leicht überrascht war von einer Gesprächsanfrage über die Therapie an der Soteria. “Ich bin kein Arzt, unsere Ärzte stellen Diagnosen“ versichert Daniel Eichert. Die ausgewiesenen Ärzte diagnostizieren die Patienten während der Behandlung. Danach wird die medikamentöse Therapie verabreicht unter Absprache mit Ärzten und Betreuer. Eine Milieutherapie wird ebenfalls angeboten, die die psychiatrische Behandlung schwerer Erkrankungen individuell an die Symptomatik und Situation angepasst. Sogenannte Milieufaktoren würden gezielt beeinflusst durch Strukturierung des Tagesablaufes, Interaktion zwischen Patienten, Behandlern und Angehörigen um den gemeinsamen therapeutischen Prozess zu ermöglichen und fördern. Alle Patienten erhälten eine persönliche Behandlung je nachdem, in welchem akuten Zustande sie seien. Bei jemandem in akuteren Zustand achte man darauf, denjenigen nicht einer stärkeren 	Alltagsbewältigung auszusetzen und dass die medikamentöse Dosierung etwas höher sei, berichtet Daniel Eichert. Zur Abschwächung der akuten Phase stellt man den Bewohnern kleine alltägliche Herausforderungen, wie das Kochen, gemeinsame Gruppenprogramme oder an der Tagesplanung teilnehmen. Durch behutsame Milieutherapie, einer entspannten Atmosphäre und progressive Zusammenarbeit erhofft man sich in der Soteria Fortschritte für jeden Patienten, sodass sie schlussendlich sicher auf eigenen Füssen stehen. 
 
-![](https://narin-kamil-saih.netlify.app/die-unsichtbare-last-schizophrenie-im-jugendalter/esszimmer.jpg "Abbildung 3: Esszimmer in der Soteria")
+![Abbildung 3: Esszimmer in der Soteria](https://narin-kamil-saih.netlify.app/die-unsichtbare-last-schizophrenie-im-jugendalter/esszimmer.jpg)
 
 ### **Ursachen der Schizophrenie**
 
@@ -58,7 +58,7 @@ Das Modell sagt aus, dass im Zusammenhang mit mehreren Faktoren, die unter gemei
 
 Die persönliche Lebensgeschichte und Erfahrungen sind alles potenzielle Ereignisse von Bedeutung, die zu einem Trauma führen können und damit eine prägende Rolle für die Entstehung einer Schizophrenie spielen. Daniel Eichert weist auf eine erhöhte «Verletzlichkeit» durch die kombinierten Faktoren aus. Er definiert den Begriff dadurch wie bestimmte traumatische Erlebnisse in der Vergangenheit eines Menschen als Faktoren zu einer grösseren «Verletzlichkeit» der Bildung von schizophrenen Symptomen führen können. Beobachtbar ist die erhöhte Verletzlichkeit in der Kindheit oder Jugendalter mit auffälligem Verhalten. Fachpersonen der Soteria schätzen die Verletzlichkeit und zusätzliche Stressfaktoren für das Auftreten psychotischer Krisen in etwa 1% der schizophrener Bevölkerung.
 
-![](https://narin-kamil-saih.netlify.app/die-unsichtbare-last-schizophrenie-im-jugendalter/schizo-grafik.jpg "Abbildung 2: Geschlechts- und Altersverteilung des psychischen  Krankheitsausbruchs (Quelle: Studysmarter.de: Schizophrenie Symptome, 2024)")
+![Abbildung 2: Geschlechts- und Altersverteilung des psychischen  Krankheitsausbruchs (Quelle: Studysmarter.de: Schizophrenie Symptome, 2024)](https://narin-kamil-saih.netlify.app/die-unsichtbare-last-schizophrenie-im-jugendalter/schizo-grafik.jpg)
 
 ### **Die Schizophrenie unter der Lupe – Ein Interview mit Luca Fischer**
 
@@ -81,4 +81,4 @@ Die Jugendzeit von Schizophrenie-Erkrankten ist eine Zeit der Herausforderungen,
 «Was wünschen Sie sich als betroffene Person von dieser Reportage?», fragten wir Herr Fischer. 
 «Das möglichst viele Personen eure Reportage lesen und dies eine aufklärende Wirkung auf LeserInnen hat. Ich hoffe, dass sie ein neues Bild von Menschen betroffen mit Schizophrenie haben und keine negativen Vorurteile fällen.» antwortete er, hoffend auf einen Wechsel den ihm endlich erlaubte, seinen Zustand nicht mehr verbergen zu müssen. Denn jeder Mensch verdient es, mit Respekt und Verständnis behandelt zu werden. 
 
-![](https://narin-kamil-saih.netlify.app/die-unsichtbare-last-schizophrenie-im-jugendalter/spteria-1-.jpg "Abbildung 4: Garten der Soteria")
+![Abbildung 4: Garten der Soteria](https://narin-kamil-saih.netlify.app/die-unsichtbare-last-schizophrenie-im-jugendalter/spteria-1-.jpg)
