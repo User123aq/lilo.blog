@@ -4,7 +4,7 @@ date = "2024-06-11"
 draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
-image = ""
+image = "schoen_klinik_schizophrenie_26248.jpg"
 footnotes = "*Um die Privatsphäre des Interviewpartners Luca Fischer zu schützen, wird sein Name in dieser Reportage anonymisiert bleiben.*\n\n***Quellen:***\n\n\nEnableMe: Schizophrenie: Dinge sehen, die nicht da sind (abgerufen am 6.5.2024)\n\nDie Techniker: Was ist Schizophrenie? (zuletzt abgerufen am 6.5.2024)\n\nReasearchGate: Milieutherapie und Ansätze aus der Soteria – Wie gestalte ich das Umfeld therapeutisch? (zuletzt abgerufen am 6.5.2024)\n\nTheodor Wenzel Werk E.V.: Schizophrenie: Anzeichen, Ausprägungen, Therapie (zuletzt abgerufen am 7.5.2024)\n\nStudysmarter: Schizophrenie Symptome (zuletzt abgerufen am 6.5.2024)\n\nUPD Universitäre Psychiatrische Dienste Bern: Zentrum für Schizophrenie und Psychose (zuletzt abgerufen am 5.5.2024)\n\nYoutube: 24. Schizophrenie (zuletzt abgerufen am 12.3.2024)\n\nStudysmarter.de: Schizophrenie Symptome, 2024 (abgerufen am 6.5.2024)\n\nigsbern: Stationäres Angebot (abgerufen am 6.5.2024)\n\nonmeda: Schizophrenie: 13 Symptome, die auf eine schizophrene Psychose hinweisen (abgerufen am 5.6.2024)"
 +++
 {{<lead>}}In einer Welt, die von scheinbarer Normalität geprägt ist, kämpfen viele junge Menschen hinter den Kulissen mit dieser komplexen psychischen Störung. Doch was bedeutet es wirklich, mit Schizophrenie im Jugendalter zu leben? Und wie können wir als Gesellschaft dazu beitragen, diese Last zu lindern und jungen Betroffenen ein unterstützendes Umfeld zu bieten?{{</lead>}}
