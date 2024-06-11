@@ -24,7 +24,7 @@ Die Schizophrenie mit ihrem Spektrum an Symptomen passt in keine Schublade. Sie 
 Wo die katatone Schizophrenie einen stundenlangen Starrezustand und Mutismus verursacht, lässt die hebephrene Schizophrenie die Äusserungen des Betroffenen nicht mehr nachvollziehbar wirken. Sie ist eine Ausprägung der paranoiden Schizophrenie, welche die klassische Symptomatik aufweist. 	Betroffene wirken distanzlos und in ihrer eigenen Welt versunken, passend in das typische Krankheitsbild der Schizophrenie. 
 Daniel Eichert, ein Quereinsteiger in der Soteria Bern, ein kleines psychiatrisches Akutspital, definierte: „Wenn Episoden oder psychotische Krisen wiederholt erlebt werden, kann man von der Schizophrenie sprechen.“
 
-![Abbildung 1: Daniel Eichert, Stv. Leiter der Soteria](content/posts/die-unsichtbare-last-schizophrenie-im-jugendalter/picture1.png)
+![Abbildung 1: Daniel Eichert, Stv. Leiter der Soteria](picture1.png)
 
 **Die Symptomatik im Blick**
 
