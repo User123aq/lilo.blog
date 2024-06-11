@@ -1,7 +1,7 @@
 +++
 title = "Die unsichtbare Last: Schizophrenie im Jugendalter"
 date = "2024-06-11"
-draft = true
+draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
 description = ""
