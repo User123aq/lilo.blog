@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/img/default-favicon.png"
-logo = "/img/default-logo.png"
-image = "/img/default-image.jpg"
+icon = "/media/michael-klein-ann-long-fine-art.jpeg"
+logo = "/media/banners.jpeg"
+image = "/media/banners.jpeg"
 color = "#5a4ae3"
 +++
