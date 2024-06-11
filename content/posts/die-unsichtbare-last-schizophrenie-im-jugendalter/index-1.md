@@ -6,9 +6,7 @@ pinned = false
 tags = ["Deutsch", "Reportage"]
 footnotes = "*Um die Privatsphäre des Interviewpartners Luca Fischer zu schützen, wird sein Name in dieser Reportage anonymisiert bleiben.*\n\n***Quellen:***\nEnableMe: Schizophrenie: Dinge sehen, die nicht da sind (abgerufen am 6.5.2024)\n\nDie Techniker: Was ist Schizophrenie? (zuletzt abgerufen am 6.5.2024)\n\nReasearchGate: Milieutherapie und Ansätze aus der Soteria – Wie gestalte ich das Umfeld therapeutisch? (zuletzt abgerufen am 6.5.2024)\n\nTheodor Wenzel Werk E.V.: Schizophrenie: Anzeichen, Ausprägungen, Therapie (zuletzt abgerufen am 7.5.2024)\n\nStudysmarter: Schizophrenie Symptome (zuletzt abgerufen am 6.5.2024)\n\nUPD Universitäre Psychiatrische Dienste Bern: Zentrum für Schizophrenie und Psychose (zuletzt abgerufen am 5.5.2024)\n\nYoutube: 24. Schizophrenie (zuletzt abgerufen am 12.3.2024)\n\nStudysmarter.de: Schizophrenie Symptome, 2024 (abgerufen am 6.5.2024)\n\nigsbern: Stationäres Angebot (abgerufen am 6.5.2024)\n\nonmeda: Schizophrenie: 13 Symptome, die auf eine schizophrene Psychose hinweisen (abgerufen am 5.6.2024)"
 +++
-**mm**
-
-**In einer Welt, die von scheinbarer Normalität geprägt ist, kämpfen viele junge Menschen hinter den Kulissen mit dieser komplexen psychischen Störung. Doch was bedeutet es wirklich, mit Schizophrenie im Jugendalter zu leben? Und wie können wir als Gesellschaft dazu beitragen, diese Last zu lindern und jungen Betroffenen ein unterstützendes Umfeld zu bieten?** 
+**`In einer Welt, die von scheinbarer Normalität geprägt ist, kämpfen viele junge Menschen hinter den Kulissen mit dieser komplexen psychischen Störung. Doch was bedeutet es wirklich, mit Schizophrenie im Jugendalter zu leben? Und wie können wir als Gesellschaft dazu beitragen, diese Last zu lindern und jungen Betroffenen ein unterstützendes Umfeld zu bieten?`** 
 
 Tsering Tschango und Narin Kamil Saih
 
@@ -49,8 +47,6 @@ Das Modell sagt aus, dass im Zusammenhang mit mehreren Faktoren, die unter gemei
 
 **Psychosoziale Faktoren**
 Die persönliche Lebensgeschichte und Erfahrungen sind alles potenzielle Ereignisse von Bedeutung, die zu einem Trauma führen können und damit eine prägende Rolle für die Entstehung einer Schizophrenie spielen. Daniel Eichert weist auf eine erhöhte «Verletzlichkeit» durch die kombinierten Faktoren aus. Er definiert den Begriff dadurch wie bestimmte traumatische Erlebnisse in der Vergangenheit eines Menschen als Faktoren zu einer grösseren «Verletzlichkeit» der Bildung von schizophrenen Symptomen führen können. Beobachtbar ist die erhöhte Verletzlichkeit in der Kindheit oder Jugendalter mit auffälligem Verhalten. Fachpersonen der Soteria schätzen die Verletzlichkeit und zusätzliche Stressfaktoren für das Auftreten psychotischer Krisen in etwa 1% der schizophrener Bevölkerung.
-
-
 
 ![Abbildung 2: Geschlechts- und Altersverteilung des psychischen  Krankheitsausbruchs (Quelle: Studysmarter.de: Schizophrenie Symptome, 2024)](picture3.jpg)
 
